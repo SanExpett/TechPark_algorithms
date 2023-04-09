@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/task1.dir/main.cpp.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/task1/main.cpp\"",
-  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/task1/main.cpp"
-}
-]
