@@ -1,0 +1,3 @@
+/home/alexey/Рабочий стол/TPark/Algorithms/module3/build/CMakeFiles/module3_task1.dir
+/home/alexey/Рабочий стол/TPark/Algorithms/module3/build/CMakeFiles/edit_cache.dir
+/home/alexey/Рабочий стол/TPark/Algorithms/module3/build/CMakeFiles/rebuild_cache.dir

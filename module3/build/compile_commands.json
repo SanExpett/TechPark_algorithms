@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/build",
+  "command": "/usr/bin/g++  -I\"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/include\" -g -g -std=gnu++20 -o CMakeFiles/module3_task1.dir/src/main.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/main.cpp\"",
+  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/main.cpp"
+},
+{
+  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/build",
+  "command": "/usr/bin/g++  -I\"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/include\" -g -g -std=gnu++20 -o CMakeFiles/module3_task1.dir/src/arcgraph.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/arcgraph.cpp\"",
+  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/arcgraph.cpp"
+},
+{
+  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/build",
+  "command": "/usr/bin/g++  -I\"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/include\" -g -g -std=gnu++20 -o CMakeFiles/module3_task1.dir/src/listgraph.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/listgraph.cpp\"",
+  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/listgraph.cpp"
+},
+{
+  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/build",
+  "command": "/usr/bin/g++  -I\"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/include\" -g -g -std=gnu++20 -o CMakeFiles/module3_task1.dir/src/setgraph.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/setgraph.cpp\"",
+  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/setgraph.cpp"
+},
+{
+  "directory": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/build",
+  "command": "/usr/bin/g++  -I\"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/include\" -g -g -std=gnu++20 -o CMakeFiles/module3_task1.dir/src/matrixgraph.o -c \"/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/matrixgraph.cpp\"",
+  "file": "/home/alexey/Рабочий стол/TPark/Algorithms/module3/task1/graph/src/matrixgraph.cpp"
+}
+]

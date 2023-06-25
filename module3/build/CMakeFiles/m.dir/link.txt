@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/m.dir/src/main.o CMakeFiles/m.dir/src/arcgraph.o CMakeFiles/m.dir/src/listgraph.o CMakeFiles/m.dir/src/setgraph.o CMakeFiles/m.dir/src/matrixgraph.o -o m 
